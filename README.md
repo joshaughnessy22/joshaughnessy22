@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi there 🐧
 
-<!--
-**joshaughnessy22/joshaughnessy22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Jade**, a senior at Ohio University studying Computer Science, with a minor in Finance and a certificate in Financial Programming.
 
-Here are some ideas to get you started:
+Currently, I'm studying abroad in **Edinburgh, Scotland**, focusing on environment and sustainability. I hope to bring this interdisciplinary perspective into my work as a future software engineer — blending technical skill with global awareness and purpose-driven design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 What I Bring
+
+- 💡 **Frameworks**: Angular, Node, Kubernetes, Docker & Rancher
+- 🛠 **Languages**: Typescript, C++, SQL, Python
+- ☁️ **Concepts**: Databases, OOP, UI/UX Design, CI/CD
+
+### 💼 Experience
+
+At Ohio University, I’ve worked as a student developer for the Student Software Engineering Program. In this role, I’ve:
+
+- Gained experience with modern dev workflows
+- Upgraded Angular and Node.js applications
+- Integrated new features to in-production university built applications
+
+### 🌿 Outside the Terminal
+
+When I’m not coding, you’ll find me:
+
+- 🍰 Baking something sweet
+- 📚 Reading (currently on a Brandon Sanderson binge!)
+- 🥾 Hiking new trails
+- ✈️ Traveling and learning wherever I go
+
+___
+
+📫 You can learn more about me on [LinkedIn](http://linkedin.com/in/joshaughnessy22)
+
