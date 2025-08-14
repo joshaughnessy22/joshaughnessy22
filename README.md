@@ -1,7 +1,7 @@
 ## Hi there 🐧
-I'm **Jade**, a senior at Ohio University studying Computer Science, with a minor in Finance and a certificate in Financial Programming.
+I'm Jade, a senior at Ohio University studying Computer Science, with a minor in Finance and a certificate in Financial Programming.
 
-Currently, I'm studying abroad in **Edinburgh, Scotland**, focusing on environment and sustainability. I hope to bring this interdisciplinary perspective into my work as a future software engineer — blending technical skill with global awareness and purpose-driven design.
+
 
 ### 💻 Things that help me make cool websites
 
@@ -29,10 +29,10 @@ Overall, I've have the opportunity to view and contribute to a bunch of really c
 
 ### 🌿 When I’m not coding, you’ll find me
 
-- 🍰 Baking something sweet
-- 📚 Reading (currently on a Brandon Sanderson binge!)
-- 🥾 Hiking new trails
-- ✈️ Traveling and learning wherever I go
+- 🍰 Making a sweet treat
+- 📚 Reading
+- 🏋🏻‍♀️ At the gym
+- ✈️ Traveling with my friends
 
 ___
 
